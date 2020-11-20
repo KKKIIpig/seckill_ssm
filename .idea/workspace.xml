@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="seckill_ssm:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="743d5fee-135e-40b5-8bf8-d01954705157" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/seckill_ssm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/seckill_ssm_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/mybatis/mapper/SeckillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/mybatis/mapper/SuccessKilledMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/controller/SeckillController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/enums/SeckillStateEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/exception/RepeatKillException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/exception/SeckillCloseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/exception/SeckillException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/mapper/SeckillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/mapper/SuccessKilledMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/mapper/cache/RedisDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/pojo/dto/Exposer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/pojo/dto/SeckillExecution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/pojo/entity/Seckill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/pojo/entity/SuccessKilled.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/pojo/vo/SeckillResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/service/SeckillService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/org/seckill/service/impl/SeckillServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/classes/spring/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/jsp/common/tag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/jsp/detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/jsp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/c3p0-0.9.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/commons-collections-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/commons-pool2-2.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/fastjson-1.2.62.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/jackson-annotations-2.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/jackson-core-2.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/jackson-databind-2.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/jedis-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/mchange-commons-java-0.2.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/mybatis-3.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/mybatis-spring-2.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/mysql-connector-java-5.1.45.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/protostuff-api-1.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/protostuff-collectionschema-1.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/protostuff-core-1.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/protostuff-runtime-1.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/slf4j-api-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-aop-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-beans-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-context-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-core-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-expression-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-jcl-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-jdbc-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-test-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-tx-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-web-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/spring-webmvc-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/seckill_ssm_Web_exploded/resource/script/seckill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill_ssm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/controller/SeckillController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/enums/SeckillStateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/exception/RepeatKillException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/exception/SeckillCloseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/exception/SeckillException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/mapper/SeckillMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/mapper/SuccessKilledMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/mapper/cache/RedisDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/pojo/dto/Exposer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/pojo/dto/SeckillExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/pojo/entity/Seckill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/pojo/entity/SuccessKilled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/pojo/vo/SeckillResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/service/SeckillService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/SeckillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/SuccessKilledMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/sql/sechema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/sql/seckill.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/seckill/mapper/SeckillMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/seckill/mapper/SuccessKilledMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/seckill/mapper/cache/RedisDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/seckill/service/SeckillServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/SeckillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/SuccessKilledMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/controller/SeckillController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/enums/SeckillStateEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/exception/RepeatKillException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/exception/SeckillCloseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/exception/SeckillException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/mapper/SeckillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/mapper/SuccessKilledMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/mapper/cache/RedisDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/pojo/dto/Exposer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/pojo/dto/SeckillExecution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/pojo/entity/Seckill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/pojo/entity/SuccessKilled.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/pojo/vo/SeckillResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/service/SeckillService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/seckill/service/impl/SeckillServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/seckill_ssm.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/seckill/mapper/SeckillMapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/seckill/mapper/SuccessKilledMapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/seckill/mapper/cache/RedisDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/seckill/service/SeckillServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/common/tag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resource/script/seckill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/秒杀项目.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/JAVA/Maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eaWlvVDNIMF2ScjhB6ikedPx3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15375" />
+    <property name="project.structure.side.proportion" value="0.20207852" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.49" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="seckill_ssm:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_seckill_ssm_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64889" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="64891" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="seckill_ssm:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="743d5fee-135e-40b5-8bf8-d01954705157" name="Default Changelist" comment="" />
+      <created>1594560338575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594560338575</updated>
+      <workItem from="1594560343195" duration="3645000" />
+      <workItem from="1605884540680" duration="696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1605885170363">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605885170363" />
+  </component>
+</project>
